@@ -47,7 +47,7 @@
              height="40"/>
       </a>
       <a href="http://lesscss.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" alt="less" width="40"
+        <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" alt="less" width="50"
              height="40"/>
       </a>
       <a href="https://www.w3.org/html/" target="_blank">
