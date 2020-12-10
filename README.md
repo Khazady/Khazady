@@ -7,6 +7,10 @@
 [<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+
+[<img align="left" alt="vibhorchaudhary | Telegram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/3135/3135686.svg?token=exp=1607601222~hmac=86c00c8014d36ee2da4580dabf3f1f48" />][cv]
+
+<br />
 <br />
 
 ### Languages and Tools:
@@ -41,6 +45,10 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40"
              height="40"/>
       </a>
+      <a href="http://lesscss.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" alt="less" width="40"
+             height="40"/>
+      </a>
       <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
              width="40" height="40"/>
@@ -53,3 +61,4 @@
 
 [linkedin]: https://www.linkedin.com/in/mkalatsey/
 [telegram]: https://telegram.me/khazady
+[cv]: https://rabota.by/resume/25f4e112ff08839eb40039ed1f38626f6b4f4d
