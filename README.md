@@ -7,6 +7,7 @@
 [<img align="left" alt="vibhorchaudhary | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+<br />
 
 [<img align="left" alt="vibhorchaudhary | Telegram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/3135/3135686.svg?token=exp=1607601222~hmac=86c00c8014d36ee2da4580dabf3f1f48" />][cv]
 
