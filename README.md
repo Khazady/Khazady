@@ -9,8 +9,12 @@
 <br />
 <br />
 
-[<img align="left" alt="CV" width="40px" src="https://www.flaticon.com/svg/static/icons/svg/3135/3135686.svg" />][cv]
+[<img align="left" alt="CV" width="40px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/cv-294-1108422.png" />][cv]
 
+<br />
+<br />
+
+[<img align="left" alt="CodeWars" src="https://www.codewars.com/users/Khazady/badges/large" />][codewars]
 <br />
 <br />
 
@@ -29,8 +33,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
              alt="typescript" width="40" height="40"/>
       </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg"
+      <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
              alt="javascript" width="40" height="40"/>
       </a>
       <a href="https://git-scm.com/" target="_blank">
@@ -55,7 +59,7 @@
              width="40" height="40"/>
       </a>
       <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3"
              width="40" height="40"/>
       </a>
     </p>
@@ -63,3 +67,4 @@
 [linkedin]: https://www.linkedin.com/in/mkalatsey/
 [telegram]: https://telegram.me/khazady
 [cv]: https://rabota.by/resume/25f4e112ff08839eb40039ed1f38626f6b4f4d
+[codewars]: https://www.codewars.com/users/Khazady
