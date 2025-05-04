@@ -66,5 +66,5 @@
 
 [linkedin]: https://www.linkedin.com/in/mkalatsey/
 [telegram]: https://telegram.me/khazady
-[cv]: https://rabota.by/resume/25f4e112ff08839eb40039ed1f38626f6b4f4d
+[cv]: https://drive.google.com/file/d/1lgjWesUgQiX-F0A2fQpOULFVt_U8ov5E/view?usp=sharing
 [codewars]: https://www.codewars.com/users/Khazady
